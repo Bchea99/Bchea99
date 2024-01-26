@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hey, I'm Brandon! 😊
+
+### About Me:
+I'm a computer science new grad from UCR looking for a SWE/MLE position. During my time at UCR I was involved with machine learning research in the area of health informatics and wireless communication systems. 
+
+#### Some things I am passionate about are: 
+- Data Science 💻
+- Robotics 🤖
+- Coffee ☕
 
 <!--
 **Bchea99/Bchea99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
