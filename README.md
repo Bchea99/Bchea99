@@ -1,4 +1,4 @@
-# Hey, I'm Brandon! 😊
+# Hello!
 
 ### About Me:
 I'm a computer science new grad from UCR looking for a SWE/MLE position. During my time at UCR I was involved with machine learning research in the area of health informatics and wireless communication systems. 
